@@ -17,4 +17,8 @@ zsh
 
 https://github.com/ohmyzsh/ohmyzsh
 
+idea 설치
+sudo apt install nautilus -y 
+
+
 언어팩 + 한글 설치
