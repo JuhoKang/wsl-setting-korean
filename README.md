@@ -13,4 +13,8 @@ https://sigmafelix.wordpress.com/2021/07/08/wslg%EC%97%90%EC%84%9C-%ED%95%9C%EA%
 하면서 계속 껐다 켜야함.... (잘안되면 그러는걸 추천)
 
 
+zsh
+
+https://github.com/ohmyzsh/ohmyzsh
+
 언어팩 + 한글 설치
