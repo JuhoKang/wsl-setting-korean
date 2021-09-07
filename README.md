@@ -20,5 +20,6 @@ https://github.com/ohmyzsh/ohmyzsh
 idea 설치
 sudo apt install nautilus -y 
 
+https://chenriang.me/running-intellij-idea-in-wslg-window-11.html
 
 언어팩 + 한글 설치
